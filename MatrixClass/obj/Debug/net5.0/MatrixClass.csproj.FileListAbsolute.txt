@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MatrixClass\MatrixClass\obj\Debug\net5.0\MatrixClass.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MatrixClass\MatrixClass\obj\Debug\net5.0\MatrixClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MatrixClass\MatrixClass\obj\Debug\net5.0\MatrixClass.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MatrixClass\MatrixClass\obj\Debug\net5.0\MatrixClass.AssemblyInfo.cs
+C:\Users\user\source\repos\MatrixClass\MatrixClass\obj\Debug\net5.0\MatrixClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MatrixClass\MatrixClass\bin\Debug\net5.0\MatrixClass.exe
+C:\Users\user\source\repos\MatrixClass\MatrixClass\bin\Debug\net5.0\MatrixClass.deps.json
+C:\Users\user\source\repos\MatrixClass\MatrixClass\bin\Debug\net5.0\MatrixClass.runtimeconfig.json
+C:\Users\user\source\repos\MatrixClass\MatrixClass\bin\Debug\net5.0\MatrixClass.runtimeconfig.dev.json
+C:\Users\user\source\repos\MatrixClass\MatrixClass\bin\Debug\net5.0\MatrixClass.dll
+C:\Users\user\source\repos\MatrixClass\MatrixClass\bin\Debug\net5.0\ref\MatrixClass.dll
+C:\Users\user\source\repos\MatrixClass\MatrixClass\bin\Debug\net5.0\MatrixClass.pdb
+C:\Users\user\source\repos\MatrixClass\MatrixClass\obj\Debug\net5.0\MatrixClass.dll
+C:\Users\user\source\repos\MatrixClass\MatrixClass\obj\Debug\net5.0\ref\MatrixClass.dll
+C:\Users\user\source\repos\MatrixClass\MatrixClass\obj\Debug\net5.0\MatrixClass.pdb
+C:\Users\user\source\repos\MatrixClass\MatrixClass\obj\Debug\net5.0\MatrixClass.genruntimeconfig.cache
